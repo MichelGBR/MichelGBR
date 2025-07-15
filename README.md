@@ -6,7 +6,7 @@
 
 ​📊 Capacidade de pensamento analítico com apoio da estatística para gerar soluções
 
-🤖​ Conhecimento básico sobre Machine Learning
+🤖​ Conhecimento sobre Machine Learning
 
 📫 Você pode me contatar por: michelgbr2020@gmail.com
 
